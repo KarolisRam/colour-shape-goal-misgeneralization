@@ -1,0 +1,6 @@
+[submodule "procgenAISC"]
+	path = procgenAISC
+	url = https://github.com/KarolisRam/procgenAISC
+[submodule "train-procgen"]
+	path = train-procgen
+	url = https://github.com/KarolisRam/train-procgen
