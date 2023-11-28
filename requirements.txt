@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+PyPDF2
+Pillow
+tqdm
+statsmodels
+ipython
+notebook
