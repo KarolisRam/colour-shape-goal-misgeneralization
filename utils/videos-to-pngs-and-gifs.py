@@ -61,7 +61,7 @@ def png_to_gif(source_folder):
             # Create a GIF for the folder
             if images:
                 gif_path = os.path.join(source_folder, f"{folder_name}.gif")
-                imageio.mimsave(gif_path, images, duration=0.2, loop=0)  # Adjust duration as needed
+                imageio.mimsave(gif_path, images, duration=200, loop=0)  # Adjust duration as needed
                 print(f"Created GIF: {gif_path}")
 
 
