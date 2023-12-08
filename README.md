@@ -1,5 +1,5 @@
 # Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study
-### [arXiv](https://arxiv.org/abs/2312.03762)
+### [arXiv](https://arxiv.org/abs/2312.03762) | [Trained models and test data](https://zenodo.org/records/10200914) | [LessWrong post](https://www.lesswrong.com/posts/G5WjQZL5MqHftsh7D/colour-versus-shape-goal-misgeneralization-in-reinforcement) | [Twitter thread](https://twitter.com/Karolis_Ram/status/1733111006639911024)
 
 This repository contains code for [Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study](https://arxiv.org/abs/2312.03762), which appeared at [ATTRIB: Workshop on Attributing Model Behavior at Scale at NeurIPS 2023](https://attrib-workshop.cc/).  
 We took one of the goal misgeneralization examples (Maze colour vs shape) from [Di Langosco et al. (2022)](https://arxiv.org/abs/2105.14111) and tried to understand how exactly it happens.  We built on top of their code [here](https://github.com/JacobPfau/procgenAISC) and [here](https://github.com/jbkjr/train-procgen-pytorch). See the paper for full details of what was added, summary here:
