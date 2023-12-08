@@ -55,7 +55,7 @@ Note that by default the screenshots and the gifs will be 6 times larger than th
 
 ## Trained models and evaluation results
 
-You can download all 1,000+ trained models and the results of over 10 million evaluations [here (coming soon)](TODO).
+You can download all 1,000+ trained models and the results of over 10 million evaluations [here](https://zenodo.org/records/10200914).
 
 ## Tips and Tricks
 
