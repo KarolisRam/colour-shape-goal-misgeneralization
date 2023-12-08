@@ -23,7 +23,7 @@ To train multiple (5 by default) agents to reach a yellow line with textured bac
 ```
 Same, but with black backgrounds:
 ```bash
-. utils/train-many-with-backgrounds.sh
+. utils/train-many.sh
 ```
 The trained agents will be located in `train-procgen/logs/train/maze_pure_yellowline`. Each agent folder will have a screenshot from a training level for sanity checks. Training on other settings, like the white line or grey backgrounds is explained in the Tips and Tricks below. One agent takes about 40 minutes to train on consumer hardware.
 
