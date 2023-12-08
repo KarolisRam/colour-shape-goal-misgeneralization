@@ -9,7 +9,7 @@ We took one of the goal misgeneralization examples (Maze colour vs shape) from [
 
 ## Requirements
 
-To run the training code you will need to install requirements from both [train-procgen](train-procgen) and [procgenAISC](procgenAISC). To be able to run all notebooks and utils you will also need to run this command:
+To run the training code you will need to install requirements from both [train-procgen](https://github.com/KarolisRam/train-procgen/tree/53856baa18551a2ea904fb383b1668eaf17bf04e) and [procgenAISC](https://github.com/KarolisRam/procgenAISC/tree/abaf50027692460a216cf6ef7c2c044ce53dab0c). To be able to run all notebooks and utils you will also need to run this command:
 ```bash
 pip install -r requirements.txt
 ```
