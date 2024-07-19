@@ -85,6 +85,7 @@ Please cite the paper using the below BibTeX:
   title={Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study},
   author={Ramanauskas, Karolis and {\c{S}}im{\c{s}}ek, {\"O}zg{\"u}r},
   journal={arXiv preprint arXiv:2312.03762},
+  url={https://arxiv.org/abs/2312.03762},
   year={2023}
 }
 ```
