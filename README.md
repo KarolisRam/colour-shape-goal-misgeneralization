@@ -80,7 +80,7 @@ See the paper for other results and more details.
 
 Please cite the paper using the below BibTeX:
 
-```
+```bibtex
 @article{ramanauskas2023colour,
   title={Colour versus Shape Goal Misgeneralization in Reinforcement Learning: A Case Study},
   author={Ramanauskas, Karolis and {\c{S}}im{\c{s}}ek, {\"O}zg{\"u}r},
